@@ -62,14 +62,16 @@ p {
 }
 .gallery {
 	margin: 5px;
-	border: 1px solid #ccc;
-	float: left;
+	display: inline;
 	width: 180px;
 }
 
 .gallery img{ 
-	width: 50%;
+	width: 300px;
 	height: auto;
+	padding: 10px;
+	border: 1px solid white;
+
 
  }
 .questions{
