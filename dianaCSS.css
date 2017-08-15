@@ -64,6 +64,10 @@ p {
 	display: flex;
 	flex-wrap: wrap;
 }
+.gallery-images {
+	width: 50%;
+	height: auto;
+}
 .questions{
 	font-weight: bold;
 	padding: 10px;
