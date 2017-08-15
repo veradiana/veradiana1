@@ -61,13 +61,17 @@ p {
 
 }
 .gallery {
-	display: flex;
-	flex-wrap: wrap;
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 180px;
 }
-.gallery-images {
+
+.gallery img{ 
 	width: 50%;
 	height: auto;
-}
+
+ }
 .questions{
 	font-weight: bold;
 	padding: 10px;
