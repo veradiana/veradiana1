@@ -1,7 +1,8 @@
 /* External Stylesheets */
 body {
 	font-family: arial, helvetica, sans-serif;
-	background-color: black;
+	background-color: #eaca60;
+	padding: 10px;
 	
 }
 h1 {
@@ -31,6 +32,7 @@ p {
 	font-size: 20px;
 	padding: 10px;
 	word-spacing: 1px;
+	color: #4f3510;
 }
 .container {
 
@@ -39,25 +41,24 @@ p {
 
 .nav {
 	width: 100%;
-	background-color: #c4c8ce;
+	background-color: #c6b9a5;
 	text-align: center;
 	font-family: arial, helvetica, sans-serif;
 	font-size: 40px;
 	display: table;
 	justify-content: center;
+	color: #4f3510;
 	text-transform: none;
-}
 
 .header{
-
 	font-size: 50px;
 	display: block;
-	border: 2.5px solid #c4c8ce;
+	border: 2.5px solid #eaca60;
 	text-align: center;
 	padding: 0;
 	font-family: arial, helvetica, sans-serif;
-	background-color: #d2d8e0;
-	color: white;
+	background-color: #c6b9a5;
+	color: #4f3510;
 	text-decoration: bold;
 
 }
@@ -80,15 +81,17 @@ p {
 	padding: 10px;
 	font-size: 25px;
 	font-family: garamond, helvetica, sans-serif;
+	color: #9e6f2d;
 }
 .answers {
 	font-weight: normal;
+	color: #4f3510;
 
 }
 .contactinfo {
-
 	text-align: center;
 	padding: 10px;
+	color: #4f3510;
 	font-size: 25px;
 
 }
@@ -106,14 +109,14 @@ a.nodec {
 	text-decoration: none
 }
 a:link {
-	color: #4b4d51;
+	color: #4f3510;
 	text-decoration: underline;
 	text-align: center;
 	display: inline-block;
 	padding: 10px;
 }
 a:visited {
-	color: #4b4d51;
+	color: #4f3510;
 	text-decoration: none;
 
 }
@@ -123,7 +126,7 @@ a:hover {
 a:active{
 	text-decoration: none;
 	top: 2px;
-	color: #c4c8ce;
+	color: #4f3510;
 }
 
 
