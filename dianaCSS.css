@@ -1,0 +1,177 @@
+/* External Stylesheets */
+body {
+	font-family: arial, helvetica, sans-serif;
+	background-color: #fff7fb;
+	padding: 40px;
+	width: 100%;
+	height: 100em;
+	border: 8px solid rgb(255, 182, 229);
+	box-sizing: border-box;
+	
+}
+h1 {
+	font-family: arial, helvetica, sans-serif;
+	float: left;
+	padding-bottom: 150px;
+	padding-top: 50px;
+
+
+}
+h2{
+	font-family: arial, helvetica, sans-serif;
+	float: left;
+
+}
+h3 {
+
+}
+h4 {
+
+}
+
+ul {
+
+}
+li {
+
+}
+
+p {
+	font-family: garamond, helvetica, sans-serif;
+	font-size: 20px;
+	padding: 10px;
+	word-spacing: 1px;
+	color: #4f3510;
+}
+.aboutme {
+	font-family: garamond, helvetica, sans-serif;
+	font-size: 20px;
+	padding: 20px;
+	margin-top: 70px;
+	word-spacing: 1px;
+	color: #4f3510;
+	float: right;
+	width: 20em;
+}
+.container {
+
+
+}
+
+.nav {
+	padding-top: 50px;
+	width: 5em;
+	height: 15em;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 30px;
+	display: block;
+	color: rgb(255, 182, 229);
+	text-transform: none;
+	border-right: 2px solid rgb(255, 182, 229);
+}
+.logo img{
+	width: 200px;
+	height: auto;
+	border-radius: 150px;
+	padding-bottom: 25px;
+}
+.header{
+
+	font-size: 50px;
+	display: inline;
+	float: left;
+	font-family: arial, helvetica, sans-serif;
+
+	color: rgb(255, 182, 229);
+	text-decoration: bold;
+
+}
+.gallery {
+	display: inline-block;
+	width: 1000px;
+	float: right;
+
+}
+
+.gallery img{ 
+	width: 300px;
+	height: auto;
+	padding: 5px;
+	border: 2px solid rgb(255, 182, 229);
+	float: right;
+
+
+
+ }
+ .me img{
+ 	float: right;
+ 	padding-top: 0px;
+ 	padding-right: 30px;
+ 	border-radius: 220px;
+
+
+ }
+.questions{
+	width: 80%;
+	height: 22em;
+	overflow: scroll;
+	font-weight: bold;
+	padding: 10px;
+	font-size: 25px;
+	font-family: garamond, helvetica, sans-serif;
+	color: rgb(255, 182, 229);
+	float: right;
+	box-sizing: content-box;
+}
+.answers {
+	justify-content: right;
+	font-weight: normal;
+	color: rgb(255, 123, 208);
+
+}
+.contactinfo {
+
+	align-content: center;
+	padding-top: 100px;
+	color: #4f3510;
+	font-size: 25px;
+	box-sizing: content-box;
+	text-align: center;
+
+
+}
+
+.fa {
+	padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    text-decoration: none;
+}
+a.nodec {
+	text-decoration: none
+}
+a:link {
+	color: #4f3510;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+	padding: 10px;
+}
+a:visited {
+	color: rgb(255, 182, 229);
+	text-decoration: none;
+
+}
+a:hover {
+	text-decoration: none;
+}
+a:active{
+	text-decoration: none;
+	top: 2px;
+	color: #4f3510;
+}
+
+
